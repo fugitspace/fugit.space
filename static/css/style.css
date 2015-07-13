@@ -3,7 +3,7 @@
 Author: http://binarytheme.com
  License: Open source - MIT
  Please visit http://opensource.org/licenses/MIT for more Full Deatils of license.
- Share Us if You Like our work 
+ Share Us if You Like our work
  Enjoy Our Codes For Free always.
 ======================================*/
 
@@ -23,7 +23,7 @@ html, body {
 
 
 .body-back {
-    background-color: #5D05A2 !important; /* YOU CAN SET COLOR HERE FOR CHANGING COLOR BACKGROUND*/
+    background-color: #B8B8B8  !important;
 }
 
 
@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .main-color {
-    color: #19CF7F;
+    color: #ffffff;
 }
 
 a {
@@ -48,7 +48,7 @@ a {
 
 h1
 {
-letter-spacing:5px; 
+letter-spacing:5px;
 font-size:50px;
 font-weight:900;
 
@@ -139,6 +139,15 @@ font-weight:900;
     margin-top: 80px;
 }
 
+img.my-picture {
+    display: block;
+    margin: 0 auto 10px;
+    max-width: 100%;
+    border: 2px solid white;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
 
 
 .bk-blue {
